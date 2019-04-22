@@ -1,0 +1,22 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "This is a sample Direcrory",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammedrafim/gittest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhammedrafim/gittest/issues"
+  },
+  "homepage": "https://github.com/muhammedrafim/gittest#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
